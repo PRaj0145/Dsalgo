@@ -1,4 +1,4 @@
-package dsaalgo;
+package com.dsaalgo;
 
 import org.w3c.dom.*;
 
